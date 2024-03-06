@@ -1,5 +1,7 @@
 == README
 
+= Started with rails 4 and upgraded to rails 7.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
